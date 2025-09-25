@@ -1,0 +1,5 @@
+{
+  "name": "Desparches",
+  "description": "Una plataforma para descubrir eventos locales. Encuentra, guarda y gestiona eventos en tu ciudad con un sistema de usuarios robusto y un panel de administración.",
+  "requestFramePermissions": []
+}
